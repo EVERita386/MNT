@@ -150,7 +150,7 @@
       "api": "https://www.huyaapi.com/api.php/provide/vod",
       "name": "虎牙资源"
     },
-        "ck": {
+    "ck": {
       "api": "https://ckzy.me/api.php/provide/vod",
       "name": "CK",
       "detail": "https://ckzy.me"
@@ -217,9 +217,9 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "name": "影视工厂"
     },
-    "testSource2": {
-      "api": "https://www.example2.com/api.php/provide/vod",
-      "name": "空内容测试源1",
+    "testSource": {
+      "api": "https://www.example.com/api.php/provide/vod",
+      "name": "空内容测试源",
       "detail": "https://www.example.com"
      },
   "custom_category": [
